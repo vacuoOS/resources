@@ -1,0 +1,7 @@
+Things I have to learn to develop my own OS:
+1. Learn to understand and make use of Intel's reference manuals
+2. Learn x86 assembly
+3. Learn GNU linker scripting http://www.scoberlin.de/content/media/http/informatik/gcc_docs/ld_3.html
+4. Learn GNU Make https://www.gnu.org/software/make/manual/html_node/Introduction.html
+5. Learn about GNU G++ Compiler(inline asm in particular)  https://gcc.gnu.org/onlinedocs/gcc/Machine-Constraints.html#Machine-Constraints https://stackoverflow.com/questions/32791997/gcc-inline-assembly-nd-constraint https://gcc.gnu.org/onlinedocs/gcc-9.3.0/gcc/Extended-Asm.html#Extended-Asm https://gcc.gnu.org/onlinedocs/gcc-9.3.0/gcc/index.html#SEC_Contents
+6. GNU Assembler: GNU Assembler macro: https://sourceware.org/binutils/docs/as/Macro.html#Macro
